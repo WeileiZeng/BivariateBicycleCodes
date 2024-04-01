@@ -27,3 +27,6 @@ distance_test.py calculates the code distance by solving an integer linear progr
 Sergey Bravyi, Andrew Cross, Jay Gambetta, Dmitri Maslov, Patrick Rall, Theodore Yoder,
 High-threshold and low-overhead fault-tolerant quantum memory
 https://arxiv.org/abs/2308.07915
+
+TODO:
+- [ ] reproduce the data and fig
